@@ -13,6 +13,7 @@ Create an issue to contribute to this list.
     - [Contents](#contents)
   - [Documentation](#documentation)
     - [Exercises and Training](#exercises-and-training)
+  - [Community](#community)
  
 ## Documentation
 
@@ -30,3 +31,4 @@ Create an issue to contribute to this list.
 ### Community
 
 - [GnuCOBOL User Email](https://lists.gnu.org/mailman/listinfo/gnucobol-users)
+- [GnuCOBOL Forum](https://sourceforge.net/p/gnucobol/discussion/)
