@@ -20,7 +20,7 @@ Create an issue to contribute to this list.
 - [GnuCOBOL Guides (List)](https://gnucobol.sourceforge.io/guides.html)
 - [GnuCOBOL FAQ](https://gnucobol.sourceforge.io/faq/index.html)
 - [GnuCOBOL Programmer’s Guide](https://gnucobol.sourceforge.io/HTML/gnucobpg.html)
-- [COBOL Language Reference by Micro Focus (Visual Cobol)](https://www.microfocus.com/documentation/visual-cobol/vc60/EclUNIX/GUID-D84DDFBC-3D1E-47B1-8DEF-26B322C321F6.html)
+- [COBOL Language Reference by Micro Focus (Visual Cobol)](https://www.microfocus.com/documentation/visual-cobol/vc90/EclUNIX/GUID-D84DDFBC-3D1E-47B1-8DEF-26B322C321F6.html)
 
 ### Exercises and Training
 
