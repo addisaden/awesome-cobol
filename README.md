@@ -28,7 +28,7 @@ Create an issue to contribute to this list.
 - [COBOL Tutorial on mainframetechhelp.de](https://www.mainframestechhelp.com/tutorials/cobol/introduction.htm)
 - [COBOL programming - tutorials, lectures, exercises, examples  by Michael Coughlan](https://www.csis.ul.ie/cobol/)
 
-### Community
+## Community
 
 - [GnuCOBOL User Email](https://lists.gnu.org/mailman/listinfo/gnucobol-users)
 - [GnuCOBOL Forum](https://sourceforge.net/p/gnucobol/discussion/)
