@@ -11,9 +11,16 @@ Create an issue to contribute to this list.
 - [Awesome Cobol](#awesome-cobol)
     - [Contributing](#contributing)
     - [Contents](#contents)
+  - [Software](#software)
   - [Documentation](#documentation)
     - [Exercises and Training](#exercises-and-training)
   - [Community](#community)
+ 
+## Software
+
+- [GnuCOBOL](https://sourceforge.net/projects/gnucobol/files/)
+- [GnuCOBOL for Windows](https://get-superbol.com/software/)
+- [COBOL for GCC](https://www.cobolworx.com/pages/cobforgcc.html) ([Sourcecode](https://gitlab.cobolworx.com/COBOLworx/gcc-cobol))
  
 ## Documentation
 
@@ -21,6 +28,7 @@ Create an issue to contribute to this list.
 - [GnuCOBOL FAQ](https://gnucobol.sourceforge.io/faq/index.html)
 - [GnuCOBOL Programmer's Guide](https://sourceforge.net/p/gnucobol/code/HEAD/tree/external-doc/guide/PDFs/gnucobpg-a4.pdf?format=raw) (PDF, [A4](https://sourceforge.net/p/gnucobol/code/HEAD/tree/external-doc/guide/PDFs/gnucobpg-a4.pdf?format=raw) or [US Letter](https://sourceforge.net/p/gnucobol/code/HEAD/tree/external-doc/guide/PDFs/gnucobpg-letter.pdf?format=raw), latest)
 - [GnuCOBOL Programmer’s Guide (HTML, 3.1 RC-1, July2020)](https://gnucobol.sourceforge.io/HTML/gnucobpg.html)
+- [GnuCOBOL Resources at OCamlPro](https://get-superbol.com/gnucobol/)
 - [COBOL Language Reference by Micro Focus (Visual Cobol)](https://www.microfocus.com/documentation/visual-cobol/vc90/EclUNIX/GUID-D84DDFBC-3D1E-47B1-8DEF-26B322C321F6.html)
 
 ### Exercises and Training
