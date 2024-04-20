@@ -21,7 +21,7 @@ Create an issue to contribute to this list.
 
 - [GnuCOBOL](https://sourceforge.net/projects/gnucobol/files/)
 - [GnuCOBOL for Windows](https://get-superbol.com/software/)
-- [COBOL for GCC](https://www.cobolworx.com/pages/cobforgcc.html) ([Sourcecode](https://gitlab.cobolworx.com/COBOLworx/gcc-cobol))
+- [COBOL for GCC](https://cobolworx.com/pages/cobforgcc.html) ([Sourcecode](https://gitlab.cobolworx.com/COBOLworx/gcc-cobol))
 
 ### IDE Extensions
 
