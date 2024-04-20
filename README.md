@@ -12,6 +12,7 @@ Create an issue to contribute to this list.
     - [Contributing](#contributing)
     - [Contents](#contents)
   - [Software](#software)
+    - [IDE Extensions](#ide-extensions)
   - [Documentation](#documentation)
     - [Exercises and Training](#exercises-and-training)
   - [Community](#community)
@@ -21,6 +22,11 @@ Create an issue to contribute to this list.
 - [GnuCOBOL](https://sourceforge.net/projects/gnucobol/files/)
 - [GnuCOBOL for Windows](https://get-superbol.com/software/)
 - [COBOL for GCC](https://www.cobolworx.com/pages/cobforgcc.html) ([Sourcecode](https://gitlab.cobolworx.com/COBOLworx/gcc-cobol))
+
+### IDE Extensions
+
+- [COBOL Source editing for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
+- [cobol-mode for emacs](https://elpa.gnu.org/packages/cobol-mode.html)
  
 ## Documentation
 
