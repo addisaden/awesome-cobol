@@ -16,6 +16,7 @@ Create an issue to contribute to this list.
   - [Documentation](#documentation)
     - [Exercises and Training](#exercises-and-training)
   - [Community](#community)
+  - [Articles](#articles)
  
 ## Software
 
@@ -47,3 +48,11 @@ Create an issue to contribute to this list.
 
 - [GnuCOBOL User Email](https://lists.gnu.org/mailman/listinfo/gnucobol-users)
 - [GnuCOBOL Forum](https://sourceforge.net/p/gnucobol/discussion/)
+
+## Articles
+
+- [How To Work With Cobol Copybooks Effectively](https://marketsplash.com/cobol-copybooks/)
+
+
+
+
