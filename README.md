@@ -23,6 +23,7 @@ Create an issue to contribute to this list.
 - [GnuCOBOL](https://sourceforge.net/projects/gnucobol/files/)
 - [GnuCOBOL for Windows](https://get-superbol.com/software/)
 - [COBOL for GCC](https://cobolworx.com/pages/cobforgcc.html) ([Sourcecode](https://gitlab.cobolworx.com/COBOLworx/gcc-cobol))
+- [OpenMainframe on Github](https://github.com/openmainframeproject)
 
 ### IDE Extensions
 
@@ -52,7 +53,9 @@ Create an issue to contribute to this list.
 
 ## Articles
 
+- [Cloudflare Workers Now Support COBOL](https://blog.cloudflare.com/cloudflare-workers-now-support-cobol/)
 - [How To Work With Cobol Copybooks Effectively](https://marketsplash.com/cobol-copybooks/)
+- [IBM and Open Mainframe Project Mobilize to Connect States with COBOL Skills](https://newsroom.ibm.com/2020-04-09-IBM-and-Open-Mainframe-Project-Mobilize-to-Connect-States-with-COBOL-Skills)
 
 
 
