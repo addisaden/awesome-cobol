@@ -48,6 +48,7 @@ Create an issue to contribute to this list.
 
 - [GnuCOBOL User Email](https://lists.gnu.org/mailman/listinfo/gnucobol-users)
 - [GnuCOBOL Forum](https://sourceforge.net/p/gnucobol/discussion/)
+- [OpenMainframe Forum](https://community.openmainframeproject.org/c/calling-all-cobol-programmers/15)
 
 ## Articles
 
