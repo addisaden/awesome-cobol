@@ -56,7 +56,7 @@ Create an issue to contribute to this list.
 - [Cloudflare Workers Now Support COBOL](https://blog.cloudflare.com/cloudflare-workers-now-support-cobol/)
 - [How To Work With Cobol Copybooks Effectively](https://marketsplash.com/cobol-copybooks/)
 - [IBM and Open Mainframe Project Mobilize to Connect States with COBOL Skills](https://newsroom.ibm.com/2020-04-09-IBM-and-Open-Mainframe-Project-Mobilize-to-Connect-States-with-COBOL-Skills)
-
+- [The Timeless Relevance of COBOL: Why This Vintage Language Still Matters](https://medium.com/@flxlflx/the-timeless-relevance-of-cobol-why-this-vintage-language-still-matters-2fa38d7c79d7)
 
 
 
