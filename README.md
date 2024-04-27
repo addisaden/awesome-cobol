@@ -12,6 +12,7 @@ Create an issue to contribute to this list.
     - [Contributing](#contributing)
     - [Contents](#contents)
   - [Software](#software)
+    - [Tools](#tools)
     - [IDE Extensions](#ide-extensions)
   - [Documentation](#documentation)
     - [Exercises and Training](#exercises-and-training)
@@ -24,6 +25,10 @@ Create an issue to contribute to this list.
 - [GnuCOBOL for Windows](https://get-superbol.com/software/)
 - [COBOL for GCC](https://cobolworx.com/pages/cobforgcc.html) ([Sourcecode](https://gitlab.cobolworx.com/COBOLworx/gcc-cobol))
 - [OpenMainframe on Github](https://github.com/openmainframeproject)
+
+### Tools
+
+- [Cobol-Check](https://github.com/openmainframeproject/cobol-check)
 
 ### IDE Extensions
 
@@ -38,6 +43,8 @@ Create an issue to contribute to this list.
 - [GnuCOBOL Programmer’s Guide (HTML, 3.1 RC-1, July2020)](https://gnucobol.sourceforge.io/HTML/gnucobpg.html)
 - [GnuCOBOL Resources at OCamlPro](https://get-superbol.com/gnucobol/)
 - [COBOL Language Reference by Micro Focus (Visual Cobol)](https://www.microfocus.com/documentation/visual-cobol/vc90/EclUNIX/GUID-D84DDFBC-3D1E-47B1-8DEF-26B322C321F6.html)
+- [COBOL Docs on Exercism](https://exercism.org/docs/tracks/cobol) -> [Resources](https://exercism.org/docs/tracks/cobol/resources)
+- [Enterprise COBOL for z/OS documentation library](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)
 
 ### Exercises and Training
 
@@ -50,6 +57,7 @@ Create an issue to contribute to this list.
 - [GnuCOBOL User Email](https://lists.gnu.org/mailman/listinfo/gnucobol-users)
 - [GnuCOBOL Forum](https://sourceforge.net/p/gnucobol/discussion/)
 - [OpenMainframe Forum](https://community.openmainframeproject.org/c/calling-all-cobol-programmers/15)
+- [DEV.TO Cobol Tag](https://dev.to/t/cobol)
 
 ## Articles
 
@@ -57,6 +65,8 @@ Create an issue to contribute to this list.
 - [How To Work With Cobol Copybooks Effectively](https://marketsplash.com/cobol-copybooks/)
 - [IBM and Open Mainframe Project Mobilize to Connect States with COBOL Skills](https://newsroom.ibm.com/2020-04-09-IBM-and-Open-Mainframe-Project-Mobilize-to-Connect-States-with-COBOL-Skills)
 - [The Timeless Relevance of COBOL: Why This Vintage Language Still Matters](https://medium.com/@flxlflx/the-timeless-relevance-of-cobol-why-this-vintage-language-still-matters-2fa38d7c79d7)
+- [Bruce Axtens Cobol Content](https://dev.to/bugmagnet/series/5998)
+- [tdd in Cobol (video)](https://github.com/addisaden/awesome-cobol/edit/main/README.md)
 
 
 
