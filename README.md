@@ -58,6 +58,8 @@ Create an issue to contribute to this list.
 - [GnuCOBOL Forum](https://sourceforge.net/p/gnucobol/discussion/)
 - [OpenMainframe Forum](https://community.openmainframeproject.org/c/calling-all-cobol-programmers/15)
 - [DEV.TO Cobol Tag](https://dev.to/t/cobol)
+- [r/cobol subreddit](https://www.reddit.com/r/cobol/)
+- [stackoverflow](https://stackoverflow.com/questions/tagged/cobol)
 
 ## Articles
 
