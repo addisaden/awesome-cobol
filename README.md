@@ -60,6 +60,7 @@ Create an issue to contribute to this list.
 - [DEV.TO Cobol Tag](https://dev.to/t/cobol)
 - [r/cobol subreddit](https://www.reddit.com/r/cobol/)
 - [stackoverflow](https://stackoverflow.com/questions/tagged/cobol)
+- [Hackernews latest 'cobol'](https://hn.algolia.com/?query=cobol&sort=byDate&type=all)
 
 ## Articles
 
