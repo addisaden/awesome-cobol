@@ -52,6 +52,7 @@ Create an issue to contribute to this list.
 - [COBOL Tutorial on mainframetechhelp.de](https://www.mainframestechhelp.com/tutorials/cobol/introduction.htm)
 - [COBOL programming - tutorials, lectures, exercises, examples  by Michael Coughlan](https://www.csis.ul.ie/cobol/)
 - [Tools/Samples incl. Games (extra Repo on GnuCOBOL)](https://sourceforge.net/p/gnucobol/contrib/HEAD/tree/) 🔥
+- [Source code for 'Beginning COBOL for Programmers' by Michael Coughlan](https://github.com/Apress/beg-cobol-for-programmers) ([The book](http://www.apress.com/9781430262534))
 
 ## Community
 
