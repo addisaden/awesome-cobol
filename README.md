@@ -34,6 +34,7 @@ Create an issue to contribute to this list.
 
 - [COBOL Source editing for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
 - [cobol-mode for emacs](https://elpa.gnu.org/packages/cobol-mode.html)
+- [COBOL.vim by Jorenar](https://github.com/Jorenar/COBOL.vim)
  
 ## Documentation
 
