@@ -45,6 +45,7 @@ Create an issue to contribute to this list.
 - [COBOL Language Reference by Micro Focus (Visual Cobol)](https://www.microfocus.com/documentation/visual-cobol/vc90/EclUNIX/GUID-D84DDFBC-3D1E-47B1-8DEF-26B322C321F6.html)
 - [COBOL Docs on Exercism](https://exercism.org/docs/tracks/cobol) -> [Resources](https://exercism.org/docs/tracks/cobol/resources)
 - [Enterprise COBOL for z/OS documentation library](https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library)
+- [Department of csis - COBOL programming - tutorials, lectures, exercises, examples](https://www.csis.ul.ie/cobol/)
 
 ### Exercises and Training
 
@@ -53,6 +54,7 @@ Create an issue to contribute to this list.
 - [COBOL programming - tutorials, lectures, exercises, examples  by Michael Coughlan](https://www.csis.ul.ie/cobol/)
 - [Tools/Samples incl. Games (extra Repo on GnuCOBOL)](https://sourceforge.net/p/gnucobol/contrib/HEAD/tree/) 🔥
 - [Source code for 'Beginning COBOL for Programmers' by Michael Coughlan](https://github.com/Apress/beg-cobol-for-programmers) ([The book](http://www.apress.com/9781430262534))
+- [Tutorials Point - COBOL Tutorial](https://www.tutorialspoint.com/cobol/index.htm)
 
 ## Community
 
